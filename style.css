@@ -1,0 +1,39 @@
+.main-Container{
+   /* padding:50px 100px;*/
+   margin-top:100px;
+   /*border: 2px solid black;*/
+}
+.h1{
+    text-align: center;
+     border: 2px solid black;
+    height: 41px;
+    width: 336px;
+    margin: 7px 398px;
+  }
+  .container{
+    border: 2px solid red;
+    background-color: #0a45358c;
+     margin:23px 244px;  
+  }
+.container1{
+   
+               display:flex;
+               justify-content: center;
+               margin: 20px 275px;
+}
+.container2{
+  margin: 11px 144px;
+}
+.input-div{
+   /* display:inline-block;*/
+        padding:0 10px;
+}
+
+.lb{
+    padding-left: 23px;
+}
+.inp{
+   
+    font-size:10px;
+    font-weight:bold;
+}

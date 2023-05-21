@@ -1,0 +1,16 @@
+.btn{
+    padding: 9px 15px;
+    border-radius: 5px;
+}
+.text-cenetr{
+    text-align: center;
+}
+.btn1{
+    padding: 0px 1px;
+    background: #ff83009e;
+    margin: 5px 1px;
+}
+.equal{
+    color: #ff0000cf;
+    margin-top: 7px;
+}
